@@ -1,6 +1,6 @@
 # Active Directory RBAC Lab 
 ## Project Overview 
-This project demonstrates Role-Based Access Control (RBAC) implementation using Microsoft Active Directory on a 2022 Windows Server. This lab uses Pokemon factions as organizational departments to simulate a real enterprise environment.
+This project demonstrates Role-Based Access Control (RBAC) implementation using Microsoft Active Directory on a 2022 Windows Server. This lab uses Pokémon factions as organizational departments to simulate a real enterprise environment.
 
 ## Environment 
 - Hypervisor: Oracle VirtualBox
@@ -42,6 +42,9 @@ restricted to their group only:
 
 ## Screenshots
 ### OU Structure
-![OU Structure](screenshots/OU_Structure.jpg)
+![OU Structure](OU%20Structure.jpg)
+
+### Security Groups 
+
 
 
