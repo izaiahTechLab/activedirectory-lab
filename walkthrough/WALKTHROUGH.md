@@ -40,7 +40,7 @@ to a Domain Controller using the AD DS role.
 Six OUs were created under the Pokémon parent OU to organize
 users and groups by faction role.
 
-![OU Structure](../screenshots/OU_Structure.jpg)
+![OU Structure](OU%20Structure.jpg)
 
 ---
 
