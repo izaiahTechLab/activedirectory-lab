@@ -57,19 +57,19 @@ Each user was automatically assigned to their faction
 security group.
 
 ### Team Aqua (HR)
-![TeamAqua Users](../screenshots/Team_Aqua_Users.jpg)
+![Team Aqua Users](Team%20Aqua%20Users.jpg)
 
 ### Team Rocket (IT Admins)
-![TeamRocket Users](../screenshots/Team_Rocket_Users.jpg)
+![Team Rocket Users](Team%20Rocket%20Users.jpg)
 
 ### Team Magma (Finance)
-![TeamMagma Users](../screenshots/Team_Magma_Users.jpg)
+![Team Magma Users](Team%20Magma%20Users.jpg)
 
 ### Team Galactic (Management)
-![TeamGalactic Users](../screenshots/Team_Galactic_Users.jpg)
+![Team Galactic Users](Team%20Galactic%20Users.jpg)
 
 ### Team Plasma (Security)
-![TeamPlasma Users](../screenshots/Team_Plasma_Users.jpg)
+![Team Plasma Users](Team%20Plasma%20Users.jpg)
 
 ---
 
